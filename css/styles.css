@@ -4,12 +4,12 @@ width: 111px;
 height: 18px;
 left: 27px;
 top: 10px;
-
-font-family: 'Roboto';
+font-family: 'Roboto' , sans-serif;
 font-style: normal;
 font-weight: 400;
 font-size: 15px;
 line-height: 18px;
+background-color: black;
 }
 .class {
     text-transform: uppercase;
